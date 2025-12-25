@@ -1,0 +1,47 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+     background-color:lavenderblush;
+     margin: 0;
+     padding: 0;
+     text-align: center; align
+}
+/* Header styles */
+.hero-section {  
+    background-color :lightpink;
+    color  : white;
+    padding: 50px 20px;
+}
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+   
+    /*about section*/
+    padding: 0 20px;
+    color: #444;
+}
+/*contact section*/
+.contact-section {
+    background-color: lightpink;
+    color: white;
+    padding: 50px 20px;
+}
+.social-btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: white;
+    color: lightpink;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+/* linkedin button */
+.social-btn.linkedin {
+    background-color: #0077b5;
+    color: white;
+}
+
+/*
